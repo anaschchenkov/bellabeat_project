@@ -335,3 +335,13 @@ write.csv(da_3, "C:\\Bellabeat\\Bellabeat\\rstudio_outcome\\da_3.csv", row.names
 write.csv(ha, "C:\\Bellabeat\\Bellabeat\\rstudio_outcome\\ha.csv", row.names=TRUE)
 write.csv(weight, "C:\\Bellabeat\\Bellabeat\\rstudio_outcome\\weight.csv", row.names=TRUE)
 ```
+
+The presentation made and published in [Tableau Public](https://public.tableau.com/app/profile/fedor.anashchenkov/viz/Fitbit_16751203129820/FitBitDataAnalysis).
+
+# **Act**
+
+Based on the findings, following recommendations were made:
+
+1. Create a set of standard activity programs in the app, containing triggers with push notifications on a certain day and hour, based on the findings.
+2. Encourage users to add weight values either automatically or manually to gather more data on BMI in the future.
+3. If correlation between high activity beyond a certain BMI value is proved, suggest specific use cases for that group of users.
